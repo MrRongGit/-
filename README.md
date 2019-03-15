@@ -1,29 +1,29 @@
 # 我的博客
 
-## Project setup
+## 项目环境安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行终端到浏览器
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编译成生产环境
 ```
 npm run build
 ```
 
-### Run your tests
+### 运行测试
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### 提示和修复文件
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 自定义配置
+请参阅 [配置参考](https://cli.vuejs.org/config/).
